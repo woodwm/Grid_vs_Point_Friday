@@ -4,7 +4,7 @@ bradforddata
 braemardata
 cambornedata
 cambridgedata
-cardiffdata.txt
+cardiffdata
 chivenordata
 cwmystwythdata
 dunstaffnagedata
